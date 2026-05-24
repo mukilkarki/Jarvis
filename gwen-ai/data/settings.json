@@ -1,0 +1,25 @@
+{
+  "notifications": {
+    "notifications_enabled": true,
+    "motivation_interval": 120,
+    "hydration_interval": 60,
+    "study_reminder": true,
+    "sleep_reminder": true,
+    "sound_enabled": true,
+    "focus_alerts": true,
+    "daily_summary": true
+  },
+  "voice": {
+    "enabled": true,
+    "speed": 180,
+    "volume": 0.9
+  },
+  "ai": {
+    "model": "deepseek",
+    "temperature": 0.7,
+    "max_tokens": 500
+  },
+  "wake_word": true,
+  "theme": "futuristic",
+  "version": "1.0"
+}

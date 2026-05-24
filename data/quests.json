@@ -1,0 +1,33 @@
+{
+  "quest_date": "2026-05-24",
+  "daily_quests": [
+    {
+      "name": "Study Time",
+      "description": "Study for 1 hour",
+      "xp": 75,
+      "type": "study",
+      "id": "q_edfdc75c05dc",
+      "completed": false,
+      "date": "2026-05-24"
+    },
+    {
+      "name": "Morning Routine",
+      "description": "Complete morning routine",
+      "xp": 30,
+      "type": "routine",
+      "id": "q_6207c93f57ad",
+      "completed": false,
+      "date": "2026-05-24"
+    },
+    {
+      "name": "Task Master",
+      "description": "Complete 5 tasks from your todo list",
+      "xp": 80,
+      "type": "productivity",
+      "id": "q_d35a61aab118",
+      "completed": false,
+      "date": "2026-05-24"
+    }
+  ],
+  "quests_completed_today": 0
+}

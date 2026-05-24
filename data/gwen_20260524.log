@@ -1,0 +1,8 @@
+2026-05-24 11:40:22,554 | INFO     | [VOICE] Speech recognition initialized
+2026-05-24 11:40:22,703 | WARNING  | [WARNING] pyttsx3 unavailable: This means you probably do not have eSpeak or eSpeak-ng installed!
+2026-05-24 11:40:22,724 | WARNING  | [WARNING] Firebase initialization failed: No module named 'firebase_admin'. Using local storage fallback.
+2026-05-24 11:40:22,726 | INFO     | [MEMORY] Memory engine initialized
+2026-05-24 11:40:22,733 | INFO     | [AUTO] Automation engine initialized (linux)
+2026-05-24 11:40:22,745 | INFO     | [SYSTEM] Emotion engine initialized
+2026-05-24 11:40:22,776 | INFO     | [SYSTEM] Daily quests generated
+2026-05-24 11:40:22,777 | INFO     | [SYSTEM] Productivity engine initialized
