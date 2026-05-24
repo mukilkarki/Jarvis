@@ -6,3 +6,24 @@
 2026-05-24 11:40:22,745 | INFO     | [SYSTEM] Emotion engine initialized
 2026-05-24 11:40:22,776 | INFO     | [SYSTEM] Daily quests generated
 2026-05-24 11:40:22,777 | INFO     | [SYSTEM] Productivity engine initialized
+2026-05-24 11:41:00,245 | INFO     | [VOICE] Speech recognition initialized
+2026-05-24 11:41:00,249 | WARNING  | [WARNING] pyttsx3 unavailable: This means you probably do not have eSpeak or eSpeak-ng installed!
+2026-05-24 11:41:00,250 | WARNING  | [WARNING] Firebase initialization failed: No module named 'firebase_admin'. Using local storage fallback.
+2026-05-24 11:41:00,251 | INFO     | [MEMORY] Memory engine initialized
+2026-05-24 11:41:00,252 | INFO     | [AUTO] Automation engine initialized (linux)
+2026-05-24 11:41:00,253 | INFO     | [SYSTEM] Emotion engine initialized
+2026-05-24 11:41:00,253 | INFO     | [SYSTEM] Productivity engine initialized
+2026-05-24 11:41:05,789 | INFO     | [VOICE] Speech recognition initialized
+2026-05-24 11:41:05,793 | WARNING  | [WARNING] pyttsx3 unavailable: This means you probably do not have eSpeak or eSpeak-ng installed!
+2026-05-24 11:41:05,794 | WARNING  | [WARNING] Firebase initialization failed: No module named 'firebase_admin'. Using local storage fallback.
+2026-05-24 11:41:05,794 | INFO     | [MEMORY] Memory engine initialized
+2026-05-24 11:41:05,796 | INFO     | [AUTO] Automation engine initialized (linux)
+2026-05-24 11:41:05,796 | INFO     | [SYSTEM] Emotion engine initialized
+2026-05-24 11:41:05,797 | INFO     | [SYSTEM] Productivity engine initialized
+2026-05-24 11:41:10,235 | INFO     | [VOICE] Speech recognition initialized
+2026-05-24 11:41:10,240 | WARNING  | [WARNING] pyttsx3 unavailable: This means you probably do not have eSpeak or eSpeak-ng installed!
+2026-05-24 11:41:10,242 | WARNING  | [WARNING] Firebase initialization failed: No module named 'firebase_admin'. Using local storage fallback.
+2026-05-24 11:41:10,242 | INFO     | [MEMORY] Memory engine initialized
+2026-05-24 11:41:10,244 | INFO     | [AUTO] Automation engine initialized (linux)
+2026-05-24 11:41:10,245 | INFO     | [SYSTEM] Emotion engine initialized
+2026-05-24 11:41:10,246 | INFO     | [SYSTEM] Productivity engine initialized
